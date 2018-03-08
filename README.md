@@ -1,4 +1,4 @@
-# simple-docker-template
+# simple-docker-LEMP-template
 Creating a simple docker template for a Nginx, PHP & MySQL application
 
 ### Docker Setup
