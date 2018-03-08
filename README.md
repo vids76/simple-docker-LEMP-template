@@ -22,10 +22,7 @@ $ docker-compose up -d > docker-compose.logs
 
 Access the app on http://localhost:8080/ (substitute localhost for the IP address of the nginx container)
 
-Run the command below at the root of the project to bring bring the containers down 
+Run the command below at the root of the project to bring the containers down 
 ```ssh
 $ docker-compose down
 ```
-
-### Contribute
-Submit a Pull Request!
