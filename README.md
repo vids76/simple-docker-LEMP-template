@@ -8,7 +8,8 @@ Creating a simple docker template for a Nginx, PHP & MySQL application
 
 ### Docker Basic
 
-Run the command bellow at the root of the project to bring the containers up```ssh
+Run the command bellow at the root of the project to bring the containers up
+```ssh
 $ docker-compose up -d
 ```
 
